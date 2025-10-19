@@ -14,3 +14,6 @@ i. y ii. Identificación de las Clases, lo que presentan, analisis de sus métod
 
 iii. Creacion de Diagrama de clases UML con Visual Paradimg
   Ver la imagen adjunta en el branch
+
+iv. Generación de código fuente por medio del diagrama de clases UML:
+  Ver la imagen o código adjunto en el branch.
