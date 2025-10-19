@@ -12,7 +12,7 @@ i. y ii. Identificación de las Clases, lo que presentan, analisis de sus métod
   Es decir ambas clase crean un módelo funcional de mercado de negocios, ya que mientras en la clase CarritoCompra almacena los productos a comprar mediante un método, en este se intancia la clase Calculadora 
   para utilizar un método presente en ella y nuevamente posterior al calculo retornar ese valor en la clase CarritoCompra y mostrar el subtotal en pantalla con el método mostrarTotal().
 
-iii. Creacion de Diagrama de clases UML con Visual Paradimg
+iii. Creacion de Diagrama de clases UML con Visual Paradimg:
   Ver la imagen adjunta en el branch
 
 iv. Generación de código fuente por medio del diagrama de clases UML:
